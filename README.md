@@ -1,8 +1,6 @@
-# threejs-demo (wip)
+# t(h)ree.js (wip)
 
-An attempt at learning [Three.js](https://threejs.org) with [Svelte Cubed](https://svelte-cubed.vercel.app) — the intention was to build someting cool within half a day, but I ran out of inspiration :") 
-
-(I will resume this soon!)
+Familiarising myself with [Three.js](https://threejs.org) and [Svelte Cubed](https://svelte-cubed.vercel.app).
 
 ## Set-up
 
@@ -14,3 +12,7 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) to view the application in your browser.
+
+## References
+
+1. [Cartoon Mill On Island Low Poly 3D Model](https://free3d.com/3d-model/cartoon-mill-on-island-low-poly-25625.html)
